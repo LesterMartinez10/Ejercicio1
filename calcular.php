@@ -8,5 +8,4 @@ $total=$valor1+$valor2;
 echo "Tu resultado es:".$total;
 
 
-
 ?>
