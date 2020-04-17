@@ -19,11 +19,11 @@
         {  $resultado= $valor1-$valor2;
 
          }
-         elseif ($operacion=="Multiplicacion")
+         elseif ($operacion=="Multiplicación")
         {  $resultado= $valor1*$valor2;
 
          }
-         elseif ($operacion=="Divicion")
+         elseif ($operacion=="División")
         {  $resultado= $valor1/$valor2;
 
          }          
