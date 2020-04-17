@@ -26,8 +26,8 @@
          elseif ($operacion=="División")
         {  $resultado= $valor1/$valor2;
 
-         }          
-         echo "El resultado es:".$resultado;
+         }                  
+        echo "<font size=\"22\" face=\"Comic Sans MS\"><b>","El resultado es:".$resultado."</b></font>";
 ?>
 <html>
 <head>
@@ -36,4 +36,5 @@
 </head>
 <body bgcolor="#B4E8BA">
 </body> 
+
  </html>
