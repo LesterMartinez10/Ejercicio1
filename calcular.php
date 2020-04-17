@@ -6,7 +6,7 @@
      
       
 	    $valor1=$_POST['n1'];
-        $valor2=$_POST['n2'];
+        $valor2=$_POST['n2'];   
         $operacion=$_POST['operacion'];
         $resultado= 0 ;
       
@@ -29,3 +29,11 @@
          }          
          echo "El resultado es:".$resultado;
 ?>
+<html>
+<head>
+    <title>Resultado</title>
+    <link rel="stylesheet" type="text/css" href="Diseño.css"
+</head>
+<body bgcolor="#B4E8BA">
+</body> 
+ </html>
